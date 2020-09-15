@@ -1,18 +1,17 @@
 body {
 	background-color: lightblue;
-
 }
-div  {
+img  {
 float:	left;
 border: 2px solid black;
 margin: 10px;
 }
-div2 {
+img:nth-of-type(2) {
 float:	right;
 border: 2px solid black;
 margin: 10px;
 }
-div3 {
+img:nth-of-type(3) {
 float:	left;
 border: 2px solid black;
 margin: 10px;
