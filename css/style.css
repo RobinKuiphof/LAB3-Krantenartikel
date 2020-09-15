@@ -1,19 +1,17 @@
 body {
 	background-color: lightblue;
-
 }
-div  {
-float:	left;
-border: 2px solid black;
+a{	
+	color:red;
+}	
+img{
+float:	middle;
+border: 2px solid red;
 margin: 10px;
 }
-div2 {
-float:	right;
-border: 2px solid black;
-margin: 10px;
-}
-div3 {
-float:	left;
-border: 2px solid black;
-margin: 10px;
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 30%;
 }
